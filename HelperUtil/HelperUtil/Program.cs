@@ -11,9 +11,6 @@ namespace HelperUtil
     {
         static void Main(string[] args)
         {
-            //EmployeeValidator validations = new EmployeeValidator();
-            //var result = validations.Validate(new Employee { Name = "Sumit", Age = 10 });
-
             EmployeeChecker cherkers = new EmployeeChecker();
             var res = cherkers.Check(new Employee { Name = "Sumit", Age = 10 });
 
