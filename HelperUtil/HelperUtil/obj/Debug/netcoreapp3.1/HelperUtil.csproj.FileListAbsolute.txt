@@ -1,0 +1,14 @@
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\HelperUtil.exe
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\HelperUtil.deps.json
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\HelperUtil.runtimeconfig.json
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\HelperUtil.runtimeconfig.dev.json
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\HelperUtil.dll
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\HelperUtil.pdb
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.csproj.CoreCompileInputs.cache
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.AssemblyInfoInputs.cache
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.AssemblyInfo.cs
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.csproj.CopyComplete
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.dll
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.pdb
+D:\INTERVIEW\EXPRESSIONS\HelperUtil\HelperUtil\obj\Debug\netcoreapp3.1\HelperUtil.genruntimeconfig.cache

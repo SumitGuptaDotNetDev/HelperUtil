@@ -1,0 +1,15 @@
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\LamdaExpression.exe
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\LamdaExpression.deps.json
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\LamdaExpression.runtimeconfig.json
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\LamdaExpression.runtimeconfig.dev.json
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\LamdaExpression.dll
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\LamdaExpression.pdb
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.csprojAssemblyReference.cache
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.AssemblyInfoInputs.cache
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.AssemblyInfo.cs
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.dll
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.pdb
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.genruntimeconfig.cache
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.csproj.CoreCompileInputs.cache
+D:\INTERVIEW\EXPRESSIONS\LamdaExpression\LamdaExpression\obj\Debug\netcoreapp3.1\LamdaExpression.csproj.CopyComplete

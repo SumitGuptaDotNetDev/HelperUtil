@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uN5bXRsLd4f1tsJ4KLyFC84//GaoUIk7aL6kWD3NFcz+QI8tFEBT4NpDXjjQBYtMaF+0fhgtWlHcWbIc3RWusg==",
+  "success": true,
+  "projectFilePath": "D:\\INTERVIEW\\EXPRESSIONS\\HelperUtil\\HelperUtil\\HelperUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tannu\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
